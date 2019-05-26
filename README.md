@@ -7,7 +7,7 @@ If you want to now more about it here is the wiki page:
 https://github.com/zoleeee/RadioZ/wiki/RadioZ
 
 or, see the pictures about the different phases of the job here:
-https://github.com/zoleeee/RadioZ
+https://github.com/zoleeee/RadioZ/wiki/Gallery
 
 Also, you can find all the python codes compressid in 
 https://github.com/zoleeee/RadioZ/blob/master/RadioZ.zip
