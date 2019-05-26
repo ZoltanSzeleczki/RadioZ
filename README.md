@@ -4,11 +4,10 @@ To do this project was very important for me. I love (old) radios, electronics, 
 I had to use many of my capabilities to finish it.
 
 If you want to now more about it here is the wiki page:
-https://github.com/zoleeee/RadioZ/wiki/RadioZ
+https://github.com/ZoltanSzeleczki/RadioZ/wiki/RadioZ
 
 or, see the pictures about the different phases of the job here:
-https://github.com/zoleeee/RadioZ/wiki/Gallery
+https://github.com/ZoltanSzeleczki/RadioZ/wiki/Gallery
 
 Also, you can find all the python codes compressid in 
-https://github.com/zoleeee/RadioZ/blob/master/RadioZ.zip
-
+https://github.com/ZoltanSzeleczki/RadioZ/blob/master/RadioZ.zip
