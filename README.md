@@ -1,4 +1,4 @@
-# RadioZ (internet radio and Google assistant in an old wooden radio case) ::: PYTHON project
+# RadioZ (internet radio and Google AI in an old wooden radio case) ::: PYTHON project
 
 To do this project was very important for me. I love (old) radios, electronics, programming, linux, and drilling, carving as well. 
 I had to use many of my capabilities to finish it.
